@@ -1,0 +1,4 @@
+.env
+tmp/*
+build/*
+pubsub-websocket-client/node_modules/*

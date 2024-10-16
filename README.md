@@ -50,7 +50,7 @@ Content-Length: 40
 ```
 
 > [!NOTE]  
-> Didn't worked will bill endpoint in the react client
+> Didn't worked with bill endpoint in the react client
 
 #### Tools and version for client
 
